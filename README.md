@@ -9,13 +9,11 @@ A simple, responsive **restaurant landing page** built using **HTML** and **CSS*
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the website](YOUR_GITHUB_PAGES_LINK)
+👉 [Click here to view the website]([YOUR_GITHUB_PAGES_LINK](https://aravinthaa.github.io/Reesta-simple--website/)
 
 ---
 
-## 📸 Preview
 
-*(Add a screenshot here once you upload it in your repo)*
 
 ---
 
@@ -50,7 +48,7 @@ images/         → Image assets
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Reesta.git
+   git clone (https://aravinthaa.github.io/Reesta-simple--website/)
    ```
 2. Open `index.html` in your browser
 
